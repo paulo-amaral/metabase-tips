@@ -1,5 +1,5 @@
 # Metabase tips
-## Running localy instance of metabase and postgres without docker
+## Running localy instance of metabase and postgres outside of docker
 #### Dump your db to localhost
 create a new postgresql server in that app(mac uses postgres.app) - https://postgresapp.com/
 
