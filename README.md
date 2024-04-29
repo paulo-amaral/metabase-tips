@@ -1,2 +1,3 @@
-# metabase-tips
-Metabase scripts to facilitate day by day operations
+# Meatbase tips
+Metabase scripts :
+
