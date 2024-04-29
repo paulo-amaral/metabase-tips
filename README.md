@@ -1,11 +1,11 @@
 # Metabase tips
-
+## Running localy instance of metabase and postgres without docker
 #### Dump your db to localhost
 create a new postgresql server in that app(mac uses postgres.app) - https://postgresapp.com/
 
 create a database in that server : `create database your_db` 
 
-restore this dump into that db `pg_restore -Ox -d your_db ./your_db.custom `
+restore this dump into that db `pg_restore -Ox -d your_db ./your_db.custom ` where your db custom is the latest dump to restore
 
 If you want to run the actual metabase database (with all the questions built already). 
 Just need to run the metabase executable with environment vars that tell it to use that db
