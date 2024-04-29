@@ -1,3 +1,3 @@
-# Meatbase tips
+# Metabase tips
 Metabase scripts :
 
