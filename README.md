@@ -1,7 +1,9 @@
 # Metabase tips
 ## Running localy instance of metabase and postgres outside of docker
 #### Dump your db to localhost
-create a new postgresql server in that app(mac uses postgres.app) - https://postgresapp.com or stackbricks(windows) https://stackbricks.app/
+create a new postgresql server in that app(mac uses postgres.app) - https://postgresapp.com 
+
+or stackbricks(windows) https://stackbricks.app/
 
 create a database in that server : `create database your_db` 
 
